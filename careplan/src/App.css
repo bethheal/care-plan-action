@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  height: 100vh; /* Adjust the height as needed */
+}
+
+.horizontal-part {
+  flex: 1;
+  border: 1px solid #ccc; /* Optional: Add borders to visually separate the parts */
+}
+
+
+
+
+@media screen and (max-width: 768px) {
+  .horizontal-part:first-child,
+  .horizontal-part:last-child {
+    display: none; /* Hide the first and last sections on smaller screens */
+  }
+}

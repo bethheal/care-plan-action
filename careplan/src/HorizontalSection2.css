@@ -1,0 +1,17 @@
+.horizontal-part {
+    border: 1px solid #ccc;
+    margin: 5px;
+  }
+  .header2 {
+    background-color: white;
+    padding: 10px;
+  }
+  
+  .header2-title {
+    color: black;
+    margin: 0;
+  }
+  .bigger-size {
+    flex: 2; /* Adjust the flex value as needed for the desired size */
+  }
+  

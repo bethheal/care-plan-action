@@ -1,0 +1,19 @@
+.horizontal-part {
+    border: 1px solid #ccc;
+    margin: 5px;
+  }
+  
+  .header1 {
+    background-color: blue;
+    padding: 10px;
+  }
+  
+  .header1-title {
+    color: white;
+    margin: 0;
+  }
+  
+  .smaller-size {
+    flex: 1;
+  }
+  
