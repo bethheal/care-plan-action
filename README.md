@@ -2,7 +2,6 @@
 ```markdown
 #care-plan-action
 
-Brief description of your project.
 
 ## Getting Started
 
